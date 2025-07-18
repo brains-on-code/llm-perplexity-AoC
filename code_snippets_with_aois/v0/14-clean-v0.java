@@ -1,0 +1,1 @@
+int R = [aoi=WEXP]2 * [aoi=NEXP]2[/aoi][/aoi];

@@ -1,0 +1,1 @@
+boolean R = (!greaterThanZero(3) && greaterThanZero(3));

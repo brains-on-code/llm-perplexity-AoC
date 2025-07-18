@@ -1,0 +1,1 @@
+double R = [aoi=WEXP]3.25 * [aoi=NEXP]4[/aoi][/aoi];

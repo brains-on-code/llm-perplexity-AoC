@@ -1,0 +1,1 @@
+boolean R = (![aoi=1]greater[/aoi]ThanZero(-1) && greaterThanZero(1));

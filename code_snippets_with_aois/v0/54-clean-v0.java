@@ -1,0 +1,1 @@
+int R = [aoi=WEXP]0b1100 [aoi=OP]&[/aoi] 0b0011[/aoi];

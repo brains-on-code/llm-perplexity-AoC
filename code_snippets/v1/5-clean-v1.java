@@ -1,0 +1,1 @@
+boolean R = (greaterThanZero(2) || (!greaterThanZero(0)));

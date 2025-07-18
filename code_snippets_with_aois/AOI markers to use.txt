@@ -1,0 +1,19 @@
+For blocks (multiple lines of code)
+[aoi=BLOCK]
+[/aoi]
+
+For marking whole statements
+[aoi=STAT]
+[/aoi]
+
+For marking larger expressions / areas
+[aoi=WEXP]
+[/aoi]
+
+For marking small expressions / parts of an expression
+[aoi=NEXP]
+[/aoi]
+
+For marking crucial operators or keywords
+[aoi=OP]
+[/aoi]

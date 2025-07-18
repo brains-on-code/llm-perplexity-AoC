@@ -1,0 +1,1 @@
+boolean R = [aoi=WEXP]([aoi=NEXP]!greaterThanZero(3) [aoi=OP]&&[/aoi][/aoi] greaterThanZero(3))[/aoi];

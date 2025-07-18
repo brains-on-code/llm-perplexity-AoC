@@ -1,0 +1,8 @@
+subset,eeg_metric,perplexity_metric,spearman_r,spearman_p
+full,mean_eeg,Max AOI Perplexity,0.34472253415889265,8.561507926621175e-07
+clean,mean_eeg,Max AOI Perplexity,0.3064590136961635,0.0028113027281071365
+obf,mean_eeg,Max AOI Perplexity,0.3678041092061236,0.00015438350398938608
+overlapping_clean,mean_eeg,Max AOI Perplexity,0.4064086549138359,0.003759971693351258
+overlapping_obf,mean_eeg,Max AOI Perplexity,0.33210212615449364,0.005660775047705454
+non_overlapping_clean,mean_eeg,Max AOI Perplexity,0.2441585940989904,0.1102169325829458
+non_overlapping_obf,mean_eeg,Max AOI Perplexity,0.37184421999149275,0.03310636849372673
