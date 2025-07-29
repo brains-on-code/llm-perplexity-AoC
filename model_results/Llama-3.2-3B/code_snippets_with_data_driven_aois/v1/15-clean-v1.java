@@ -1,0 +1,1 @@
+double R = [aoi=1]3.25 *[/aoi] 4;

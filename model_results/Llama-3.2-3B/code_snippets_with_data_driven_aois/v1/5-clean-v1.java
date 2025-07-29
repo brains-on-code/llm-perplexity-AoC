@@ -1,0 +1,1 @@
+boolean R = ([aoi=1]greater[/aoi]Than[aoi=2]Zero[/aoi](2) || (!greaterThanZero(0)));

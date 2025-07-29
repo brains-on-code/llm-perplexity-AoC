@@ -1,0 +1,20 @@
+{
+    "font-normal": "JetBrainsMono-Regular.ttf",
+    "font-bold": "JetBrainsMono-Bold.ttf",
+    "font-italic": "JetBrainsMono-Italic.ttf",
+    "font-bold-italic": "JetBrainsMono-BoldItalic.ttf",
+    "font-size": 30,
+    "width-margin": 5,
+    "height-margin": 5,
+    "spacing": 35,
+    "background-color": [
+        255,
+        255,
+        255
+    ],
+    "style": "vs",
+    "source-code": [
+        "int  V1  =  5;",
+        "boolean  R  =  ([aoi=1]V1--  >  2[/aoi]);"
+    ]
+}

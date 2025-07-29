@@ -1,0 +1,1 @@
+double R = [aoi=1]3.1 *[/aoi] 2[aoi=2]0[/aoi];

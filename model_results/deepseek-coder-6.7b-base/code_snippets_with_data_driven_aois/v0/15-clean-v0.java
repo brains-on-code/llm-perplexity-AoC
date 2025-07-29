@@ -1,0 +1,1 @@
+double R = [aoi=1]4.5 *[/aoi] 2;

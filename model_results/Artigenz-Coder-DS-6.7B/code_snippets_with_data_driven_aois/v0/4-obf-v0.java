@@ -1,0 +1,2 @@
+int R;
+R = [aoi=1]2 -[/aoi] [aoi=2]4 /[/aoi] 2;

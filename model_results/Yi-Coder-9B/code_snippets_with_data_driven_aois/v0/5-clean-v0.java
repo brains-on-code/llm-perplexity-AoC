@@ -1,0 +1,1 @@
+boolean R = ([aoi=1]great[/aoi]er[aoi=2]Th[/aoi]an[aoi=3]Zero[/aoi]([aoi=4]1[/aoi]) && ([aoi=5]!great[/aoi]erThanZero([aoi=6]0[/aoi])));

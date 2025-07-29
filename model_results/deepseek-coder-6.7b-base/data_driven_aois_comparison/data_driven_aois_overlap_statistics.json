@@ -1,0 +1,10 @@
+{
+  "num_total_clean_manually_labeled": 72,
+  "num_total_confusing_manually_labeled": 72,
+  "num_total_clean_detected": 116,
+  "num_total_confusing_detected": 103,
+  "num_clean_only": 34,
+  "num_confusing_only": 23,
+  "num_clean_overlap": 38,
+  "num_confusing_overlap": 49
+}

@@ -1,0 +1,1 @@
+int R = 0[aoi=1]b1100 &[/aoi] 0[aoi=2]b0011[/aoi];
