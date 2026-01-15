@@ -1,11 +1,13 @@
 # Are Humans and LLMs Confused by the Same Code? An Empirical Study on Fixation-Related Potentials and LLM Perplexity
 
-This repository contains the replication package for our ICSE 2026 paper submission:  
-**"Are Humans and LLMs Confused by the Same Code? An Empirical Study on Fixation-Related Potentials and LLM Perplexity."**
+[![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+
+This repository contains the replication package for our ICSE 2026 paper:  
+**"Are Humans and LLMs Confused by the Same Code? An Empirical Study on Fixation-Related Potentials and LLM Perplexity."** ([preprint pdf](https://www.se.cs.uni-saarland.de/publications/docs/PBR+22.pdf))
 
 We investigate the relationship between large language model (LLM) perplexity and human neurophysiological responses—specifically Fixation-Related Potentials (FRPs)—during program comprehension tasks. Our goal is to understand whether humans and LLMs exhibit confusion around the same code regions. The repository includes code, analysis notebooks, annotations, and plotting scripts to replicate all results and figures from the paper.
 
-**Status**: Paper under review for ICSE 2026  
+**Status**: Paper accepted at ICSE 2026 (Technical Track)
 
 ---
 
@@ -127,9 +129,14 @@ After completing the analysis, generate the corresponding visualizations using:
 
 ---
 
+
 ## License
 
-This replication package is released for academic use only. Please contact the authors for other use cases.
+This repository is licensed under a
+[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
+
+[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
+[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
 
 ---
 
